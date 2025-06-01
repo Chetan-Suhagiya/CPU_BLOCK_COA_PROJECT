@@ -2,7 +2,7 @@
 
 This repository hosts the digital logic design of a fundamental accumulator-based Central Processing Unit (CPU), meticulously implemented using the Logisim-evolution platform. The project, encapsulated within the `CPU_BLOCK_CHETAN.circ` file, serves as an educational resource to elucidate the core principles of computer architecture through a practical, hands-on model featuring 12-bit register widths.
 
-## 📄 Table of Contents
+## Table of Contents
 - [ Key Features](#-key-features)
 - [ Architectural Components](#-architectural-components)
 - [ Architectural Overview](#️-architectural-overview)

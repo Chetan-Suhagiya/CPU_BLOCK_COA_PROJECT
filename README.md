@@ -73,13 +73,16 @@ Based on the implemented control logic and instruction decoding mechanisms, the 
 ##  Visual Overview (Screenshots)
 
 Including visual representations of the Logisim circuit can significantly enhance understanding.
-List of components
+* List of components
+* 
 ![image](https://github.com/user-attachments/assets/00371b4f-68a4-48db-8a22-f38d4715b573)
 
-Main circuit
+* Main circuit
+*
 ![image](https://github.com/user-attachments/assets/151ecd82-83aa-4e02-8933-4ae89ef8da74)
 
-Control Unit 
+* Control Unit
+*
 ![image](https://github.com/user-attachments/assets/62ad76f5-588b-4e75-98e0-e6c59b6af97e)
 ![image](https://github.com/user-attachments/assets/f974d534-8178-4c71-a779-be41c1a58059)
 
